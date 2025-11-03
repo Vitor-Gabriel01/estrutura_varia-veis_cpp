@@ -1,0 +1,12 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    string nome = "Vitor";
+    int idade = 0;
+    
+    cout << "A " << nome << " tem " << idade << " anos." <<endl;
+    return 0;
+}
